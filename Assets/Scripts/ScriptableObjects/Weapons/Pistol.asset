@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86abf207a5ff4884d8c87b480c214168, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  itemType: 0
+  icon: {fileID: 21300000, guid: 947e3907c1e9e2b46954088ca59f2fd6, type: 3}
+  itemName: 
+  itemPrefab: {fileID: 5262141625902317605, guid: 1f2434b9ad2a6c44b9257b103905adc6, type: 3}
+  description: 
+  rarity: 1
+  cost: 1
+  weight: 1
+  Stackable: 0
+  Quantity: 1
+  key: 
+  sprite: {fileID: 0}
+  damageType: 1
+  weaponType: 0
+  baseDamage: 20
+  attackSpeed: 1
+  criticalChance: 1
+  projectileSpeed: 5
+  reloadTime: 0.5
+  spread: 15
+  baseAmmo: 0
+  Ammo: 9
+  usesAmmo: 1
+  projectile: {fileID: 422320736824130668, guid: c619d2eed15ac9046928f1c26bc80870, type: 3}
+  buffChance: 0
+  rotatable: 1
